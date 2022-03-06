@@ -13,11 +13,11 @@ cases in the countries you will be searching for.
 
 This is how it looks before you enter something.
 
-![](C:\Users\tridi\Desktop\Java\pr.PNG)
+![pr](https://user-images.githubusercontent.com/86187166/156936044-b5156174-3716-4939-8dae-675e30e36270.PNG)
 
 Here is what it looks after you enter it.
 
-![](C:\Users\tridi\Desktop\Java\pr1.PNG)
+![pr1](https://user-images.githubusercontent.com/86187166/156936063-cd635554-eb12-492a-ac1a-65886495732e.PNG)
 
 Here is a tutorial how to open this
 
@@ -30,6 +30,15 @@ Here is a tutorial how to open this
 **4.Run the App.java file.**
 
 
+
+
+
+
+
+
+
+
+https://user-images.githubusercontent.com/86187166/156936070-1a830a75-03d9-4172-89e6-8b860de4028c.MP4
 
 
 
